@@ -1,3 +1,3 @@
 # a
 
-A description of this package.
+a bard code generation test
